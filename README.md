@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amosol
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... software engineering and media design 
 - 🌱 I’m currently learning ... iOS and web development 
 - 💞️ I’m looking to collaborate on ... nothing, just me for now 
 - 📫 How to reach me ... @amosol on GitHub
